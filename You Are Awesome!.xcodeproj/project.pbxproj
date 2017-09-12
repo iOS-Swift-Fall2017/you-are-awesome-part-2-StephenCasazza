@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		931C4F2E1F65F998002D62D4 /* Awesome 2.14 in Resources */ = {isa = PBXBuildFile; fileRef = 931C4F2D1F65F998002D62D4 /* Awesome 2.14 */; };
 		93AE4BBC1F54588600478213 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE4BBB1F54588600478213 /* AppDelegate.swift */; };
 		93AE4BBE1F54588600478213 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93AE4BBD1F54588600478213 /* ViewController.swift */; };
 		93AE4BC11F54588600478213 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93AE4BBF1F54588600478213 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		931C4F2D1F65F998002D62D4 /* Awesome 2.14 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Awesome 2.14"; sourceTree = "<group>"; };
 		93AE4BB81F54588600478213 /* You Are Awesome!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93AE4BBB1F54588600478213 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93AE4BBD1F54588600478213 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				93AE4BBB1F54588600478213 /* AppDelegate.swift */,
 				93AE4BBD1F54588600478213 /* ViewController.swift */,
+				931C4F2D1F65F998002D62D4 /* Awesome 2.14 */,
 				93AE4BBF1F54588600478213 /* Main.storyboard */,
 				93AE4BC21F54588600478213 /* Assets.xcassets */,
 				93AE4BC41F54588600478213 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				93AE4BC61F54588600478213 /* LaunchScreen.storyboard in Resources */,
 				93AE4BC31F54588600478213 /* Assets.xcassets in Resources */,
+				931C4F2E1F65F998002D62D4 /* Awesome 2.14 in Resources */,
 				93AE4BC11F54588600478213 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,6 +281,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8QNM9K5FQH;
 				INFOPLIST_FILE = "You Are Awesome!/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.casazza.You-Are-Awesome-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -292,6 +297,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8QNM9K5FQH;
 				INFOPLIST_FILE = "You Are Awesome!/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.casazza.You-Are-Awesome-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
