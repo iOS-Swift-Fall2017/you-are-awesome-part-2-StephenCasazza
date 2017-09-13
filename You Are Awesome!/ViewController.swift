@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var awesomeImage: UIImageView!
     @IBOutlet weak var soundSwitch: UISwitch!
     var awesomePlayer = AVAudioPlayer()
-    var index = 0
+    var index = -1
     var imageNumber = -1
     var soundNumber = -1
     let numberOfImages = 4
@@ -59,7 +59,7 @@ class ViewController: UIViewController {
        
         let messages = ["You Are Fantastic!",
                          "You Are Great!",
-                         "You Are Fantastic!",
+                         "You Are So Cool!",
                          "Fabulous? That's You!",
                          "You Brighten My Day Everyday!",
                          "You Da Bomb!",

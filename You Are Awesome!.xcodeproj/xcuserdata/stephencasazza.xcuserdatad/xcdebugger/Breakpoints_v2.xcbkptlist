@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "You Are Awesome!/AppDelegate.swift"
+            timestampString = "525644677.812686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.AppDelegate.__deallocating_deinit"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephencasazza/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/AppDelegate.swift"
+                  timestampString = "525644419.141579"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.AppDelegate.__allocating_init() -&gt; You_Are_Awesome_.AppDelegate"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephencasazza/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/AppDelegate.swift"
+                  timestampString = "525644419.145746"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.AppDelegate.init() -&gt; You_Are_Awesome_.AppDelegate"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephencasazza/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/AppDelegate.swift"
+                  timestampString = "525644419.150513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephencasazza/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/AppDelegate.swift"
+                  timestampString = "525644419.15726"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
